@@ -45,7 +45,4 @@ A aplicação requer as seguintes bibliotecas Python:
 - `pytesseract` (para funcionalidade de OCR)
 
 ## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para quaisquer melhorias ou correções de bugs.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para quaisquer melhorias ou correções de bugs
