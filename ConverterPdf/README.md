@@ -1,5 +1,3 @@
-# Ferramenta PDF Moderna
-
 ## Visão Geral
 A Ferramenta PDF é uma aplicação versátil projetada para simplificar várias tarefas relacionadas a PDFs. Ela fornece uma interface gráfica amigável construída com `customtkinter`, permitindo que os usuários realizem operações como converter imagens para PDF, mesclar múltiplos PDFs, desbloquear PDFs protegidos, transformar texto em maiúsculas e dividir PDFs em páginas individuais.
 
